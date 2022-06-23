@@ -1,6 +1,6 @@
 Hi 👋🏻‍
 ## I’m Abdallah Zakzouk
-✨An Experienced JavaScript/FrontEnd Engineer 7+ years of experience 
+✨An Experienced JavaScript/FrontEnd Engineer 8+ years of experience 
 
 ---
 
